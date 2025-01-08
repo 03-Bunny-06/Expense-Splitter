@@ -4,6 +4,8 @@ Project Description:
 
 The Expense Splitter is a Python-based application designed to help users manage, view, edit, and split their expenses efficiently. It leverages the rich library to present data in a visually appealing tabular format, making it easier to comprehend financial details.
 
+<hr/>
+
 Features:
 
 * Add Expenses: Add new expense records, including type, amount, and a descriptive note.
@@ -13,9 +15,13 @@ Features:
 * Split Expenses: Calculate and display the cost share for a group of individuals.
 * Exit: Quit the application gracefully.
 
+<hr/>
+
 Dependencies:
 
 * Rich Library: Used to create visually appealing tables. Install using: pip install rich
+
+<hr/>
 
 How to Use:
 
@@ -26,6 +32,8 @@ How to Use:
 3. View expenses and their details in an attractive table.
 4. Split total expenses among a specified number of people.
 5. Exit the application once done.
+
+<hr/>
 
 Example Usage:
 
