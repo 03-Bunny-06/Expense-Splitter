@@ -53,3 +53,5 @@ Enter the amount spent: 50
 Enter a note to describe the expense: dinner
 
 Expense added successfully!
+
+![image](https://github.com/user-attachments/assets/6c67329b-bca1-4f97-8f5b-a67ca0fc32c2)
